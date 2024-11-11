@@ -54,7 +54,7 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) [![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com) [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeshwar-kumar-giri-87527785/) [![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com) [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeshwarraj800@gmail.com)
 
 ---
 
