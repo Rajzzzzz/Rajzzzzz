@@ -1,5 +1,3 @@
-I'll draft a personalized GitHub profile README for you, based on your skills, projects, and interests. Here’s the content you can use directly in your `README.md`:
-
 ---
 
 # 👋 Hi, I'm Rajeshwar Kumar Giri!
