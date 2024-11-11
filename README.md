@@ -1,4 +1,7 @@
-### Hi there, I'm Rajeshwar Kumar Giri 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4287f5&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Rajeshwar+Kumar+Giri+%F0%9F%91%8B" alt="Typing SVG" />
+</div>
+
 [<img src="https://komarev.com/ghpvc/?username=Rajzzzzz&label=Profile+Views&color=4287f5&style=flat" />](https://github.com/Rajzzzzz)
 
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" align="right" width="45%"/>
