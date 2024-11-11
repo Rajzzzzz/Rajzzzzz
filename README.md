@@ -1,62 +1,62 @@
----
+# 👋 Hi there, I'm Rajeshwar Kumar Giri! ![Profile Views](https://komarev.com/ghpvc/?username=Rajzzzzz&color=blue)
 
-# 👋 Hi, I'm Rajeshwar Kumar Giri!
-
-## 🌟 Full Stack Developer | UI/UX Designer | AI/ML Enthusiast
-
-I'm a Computer Science and Engineering student at United Institute of Technology with hands-on experience in **Web Development**, **Machine Learning**, and **Cloud Services**. With a strong focus on UI/UX and backend development, I'm passionate about creating applications that are both functional and visually appealing.
-
-- 🔭 **Currently working on:** Enhancing my skills in AI/ML and working on various web development projects.
-- 🌱 **Currently learning:** TensorFlow for ML and exploring advanced backend frameworks.
-- 👯 **Looking to collaborate on:** AI/ML projects, Web Development, and open-source contributions.
-- ⚡ **Fun fact:** I'm a problem solver at heart, always seeking efficient solutions in development and design.
+### 🌟 Full Stack Developer | UI/UX Designer | AI/ML Enthusiast
 
 ---
 
-📊 GitHub Stats
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rajzzzzz&show_icons=true&theme=radical" width="400"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajzzzzz&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajzzzzz&layout=compact&theme=radical)
+I'm a Computer Science and Engineering student at United Institute of Technology. With hands-on experience in **Web Development**, **Machine Learning**, and **Cloud Services**, I focus on creating applications that balance function and aesthetics. I’m passionate about crafting seamless user experiences and diving deep into AI/ML for impactful projects.
 
----
-
-🛠️ Skills & Technologies
-
-- Languages: JavaScript, Python, HTML, CSS
-- Frontend: React, Tailwind CSS, Figma for UI Design
-- Backend: Node.js, Express.js
-- Cloud: Vercel, AWS, Tally on Cloud
-- Other Tools: Git, TensorFlow, Vite, Razorpay Integration
+- 🔭 **Currently working on:** AI/ML projects and expanding my web development skills.
+- 🌱 **Currently learning:** TensorFlow and advanced backend technologies.
+- 👯 **Looking to collaborate on:** Open-source projects in AI/ML, Web Development.
+- ⚡ **Fun fact:** Problem-solving is my favorite skill!
 
 ---
 
-🚀 Projects
-
-Here are some highlights of my projects:
-
-1. [Software House World](https://www.softwarehouseworld.com) 
-   - Description: A professional website showcasing the services offered by Software House, including website development and Tally cloud solutions.
-   - Technologies: React, Tailwind CSS, Vite, Node.js, Razorpay integration.
-
-2. Infotrixs2  
-   - Description: A web development project focused on creating interactive and responsive design solutions.
-   - Technologies: Full Stack Development with Node.js and React.
-
-3. AI/ML Projects  
-   - Description: Experiments in machine learning, predictive analytics, and data processing using Python and TensorFlow.
+## 🛠️ Skills & Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
-🌐 Let's Connect
+## 📊 GitHub Stats
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Portfolio: [Your Portfolio Link](https://yourportfolio.com)
-- Email: [Your Email](mailto:youremail@example.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajzzzzz&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajzzzzz&theme=radical" width="400"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+- **[Software House World](https://www.softwarehouseworld.com)**
+  - Description: Professional website showcasing services offered by Software House, with features for Tally and cloud solutions.
+  - Tech Stack: React, Tailwind CSS, Node.js, Razorpay Integration
+
+- **Infotrixs2**
+  - Description: An interactive and responsive design web project, leveraging full-stack development.
+  - Tech Stack: Full Stack Development with Node.js and React.
+
+- **AI/ML Projects**
+  - Description: Machine learning experiments focused on predictive analytics and data processing using Python and TensorFlow.
 
 ---
 
-📈 Activity Highlights
+## 🌐 Let's Connect!
 
-I’m constantly working on new projects and contributing to the development community. Check out my pinned repositories and latest contributions for insights into my work.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com) 
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 ---
+
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rajzzzzz&bg_color=1a1b27&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)
+
+---
+
+### ✨ Fun Fact
+I love building efficient solutions, both in code and design. Let's collaborate to build something innovative!
+
